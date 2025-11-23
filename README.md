@@ -96,7 +96,7 @@ Includes product browsing, cart management, and secure order booking.
 
 # 🐍 Snake Contribution Animation  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deepanshusinghpal/deepanshusinghpal/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/deepanshusinghpal/deepanshusinghpal/output/snake.svg" />
 </p>
 
 ---
