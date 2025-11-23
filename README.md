@@ -1,61 +1,71 @@
-<!-- Header Banner -->
-<!-- <p align="center">
-  <img src="https://github.com/deepanshusinghpal/deepanshusinghpal/blob/main/assets/banner.png" alt="Deepanshu Banner" />
-</p> -->
-
-<h1 align="center">Hi 👋, I'm Deepanshu Singh Pal</h1>
-<h3 align="center">Full-Stack Developer | CSE @ IIITDM Kurnool | Problem Solver | Tech + Creativity</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#4F46E5;">Deepanshu Singh</span></h1>
+<h3 align="center">Final-Year B.Tech CSE Student | MERN/PERN Developer | DSA & CS Fundamentals Enthusiast</h3>
 
 ---
 
-## 🎯 **About Me**
-💡 Passionate **Full-Stack Developer** and **Problem Solver**, studying CSE at IIITDM Kurnool (2022–2026).  
-I love building **end-to-end applications**, exploring **DSA**, and creating **interactive tech projects**.
-
-- 🚀 Building with **React, Node.js, PostgreSQL**
-- ⚔️ C++ + OOP lover (Chess engine builder)
-- 🎥 Filmmaker at heart — exploring **video storytelling**
-- 🧠 Constant learner: **Next.js**, **System Design**, **TypeScript**
-
----
-
-# ⚡ **Tech Stack (Icons Version)**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,html,css" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,firebase" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai" /><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
-</p>
+## 🚀 About Me  
+- 🎓 Final-year **B.Tech (CSE)** student  
+- 💡 Strong command over **Core CS subjects** — OOPS, DBMS, SQL, CN, OS, DSA  
+- 💻 Specialized in **MERN / PERN Stack Development**  
+- 🔍 Passionate about **scalable systems, clean architecture & optimization**  
+- 🌱 Currently learning **System Design** & **Advanced React Patterns**  
+- ⚡ I enjoy solving problems & building real-world impactful projects  
 
 ---
 
-# 🏗️ **Featured Projects (Premium Cards)**
+## 🧠 Technical Skills
 
-### 🚜 **Krishi Rental Service**
-> Full-stack platform for farmers to rent agricultural machinery  
-> **OTP login | JWT Auth | Role-based access | Node.js + PostgreSQL**
+### **💻 Programming & CS Fundamentals**
+- **Languages:** JavaScript, TypeScript, C++, Java  
+- **Core Subjects:** OOPS, DBMS, SQL, CN, OS, DSA  
 
-🔗 **GitHub:** _Add link here_  
-🛠️ Stack: React, Node.js, Express.js, PostgreSQL  
-
----
-
-### 🌐 **Portfolio Website**
-> A personal portfolio built with React + Node.js to showcase skills & achievements
-
-🔗 **GitHub:** _Add link here_
+### **🌐 Web Development**
+- **Frontend:** React.js, Next.js, Tailwind CSS, Redux Toolkit  
+- **Backend:** Node.js, Express.js  
+- **Database:** PostgreSQL, MongoDB  
+- **Tools:** Git, GitHub, Postman, VS Code  
+- **Deployment:** Vercel, Render, Netlify  
 
 ---
 
-### ♟️ **Chess Game (C++)**
-> Implemented full chess logic using OOP + STL + DSA  
-> Custom engine with legal moves, captures, checks
-
-🔗 **GitHub:** _Add link here_
+# 🌟 Top Projects
 
 ---
 
-# 🌐 **Connect With Me**
+## 🎓 EduSphere – E-Learning Platform (PERN Stack)
+**Tech:** React, Node.js, Express.js, PostgreSQL, JWT, Stripe, AI Chatbot  
+
+A modern full-stack e-learning platform with authentication, instructor dashboards, course creation, payments, and an integrated AI chatbot.
+
+🔗 **Live:** https://edusphere-x7o2.vercel.app  
+🔗 **Repo:** https://github.com/deepanshusinghpal/edusphere  
+
+---
+
+## 👨‍💼 Personal Portfolio – Developer Portfolio  
+A responsive and elegant portfolio showcasing projects, experience, and skills — built for hiring managers & recruiters.
+
+🔗 **Live:** https://deepanshusinghpal.github.io/  
+🔗 **Repo:** https://github.com/deepanshusinghpal/deepanshusinghpal.github.io  
+
+---
+
+## 🚜 Krishi Rental Service – Machinery Rental Platform  
+A web platform that helps farmers rent agricultural equipment with ease.
+
+🔗 **Repo:** https://github.com/Infiniper/Krishi-Rental-Services.git  
+
+---
+
+## 🏡 GramSeva – Rural Services Platform 🇮🇳  
+A full-stack application designed to connect rural communities with essential services.  
+Includes product browsing, cart management, and secure order booking.
+
+🔗 **Repo:** https://github.com/deepanshusinghpal/gram-seva-app  
+
+---
+
+# 🌐 Connect With Me
 <p align="center">
   <a href="https://www.facebook.com/deepanshu.pal.16082004"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/deepanshupal_2004/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
@@ -65,7 +75,7 @@ I love building **end-to-end applications**, exploring **DSA**, and creating **i
 
 ---
 
-# 📈 **GitHub Stats (Modern + Animated)**  
+# 📈 GitHub Stats  
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=deepanshusinghpal&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshusinghpal&theme=tokyonight" />
@@ -77,14 +87,21 @@ I love building **end-to-end applications**, exploring **DSA**, and creating **i
 
 ---
 
-# 🐍 **Snake Contribution Animation**
+## 🛠️ Tools & Technologies  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,git,github,cpp,java,tailwind,vercel,vscode" />
+</p>
+
+---
+
+# 🐍 Snake Contribution Animation  
 <p align="center">
   <img src="https://raw.githubusercontent.com/deepanshusinghpal/deepanshusinghpal/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 🔥 **Activity Graph**
+# 🔥 Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshusinghpal&theme=react-dark&hide_border=true" />
 </p>
@@ -110,7 +127,6 @@ I love building **end-to-end applications**, exploring **DSA**, and creating **i
 
 ---
 
-<!-- Footer -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deepanshusinghpal&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
