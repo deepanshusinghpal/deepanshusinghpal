@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#4F46E5;">Deepanshu Singh</span></h1>
-<h3 align="center">Final-Year B.Tech CSE Student | MERN/PERN Developer | DSA & CS Fundamentals Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#4F46E5;">Deepanshu</span></h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4F46E5&center=true&vCenter=true&width=430&lines=Final-Year+B.Tech+CSE+Student;Full-Stack+MERN%2FPERN+Developer;DSA+%26+CS+Fundamentals+Enthusiast;Building+Scalable+and+Clean+Systems" alt="Typing Animation"/>
+</h3>
 
 ---
 
